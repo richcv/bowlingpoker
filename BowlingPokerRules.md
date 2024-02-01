@@ -16,6 +16,7 @@
     * Lost card will go back in the draw pile which is to be reshuffled.  
     * If a bowler has no cards to lose, they go ‘in the hole’ and must skip the next card draw.  Negative draws can accumulate with no maximum.
     * If the bowler is losing a non-joker card, they may avoid losing a card by guessing the side of the ball return that their bowling ball will end up on.  This guess must be verbally made prior to their ball returning and no attempt to ‘stack the odds’ will be tolerated (at the commissioner’s discretion)
+    * If either joker is placed back in the deck and then that same joker is later re-drawn (by any player), the joker powers are swapped Freaky-Friday style.  Good Joker becomes the Bad Joker and vice versa.  Although unlikely, this can happen multiple times but would not stack (i.e. if both jokers were placed back in the deck before either was redrawn, they only swap once)
 5.	If a bowler picks up a split (must be recognized by the scoreboard), they may steal any card from any other player.  If no other player has any cards to steal, nothing happens.
 6.	If a bowler pulls either ‘Joker’ on their first card draw and draws no other cards during the bowling match this is considered an ‘unbeatable hand’.  This situation is referred to as a ```Morgan Maneuver```.
 7.	If a bowler bowls in the wrong lane, they return all their cards to the deck and start over.  This is known as a ```Holland-daze```.
