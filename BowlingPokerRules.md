@@ -1,4 +1,4 @@
-***COMMON SENSE RULES OF BOWLING POKER (rev 1.1)***
+***COMMON SENSE RULES OF BOWLING POKER (rev 1.2)***
 
 **Section I - Setup**
 1.	All bowlers put a $1.00 ante into the pot.  Higher antes can be negotiated but all bowlers must agree.
